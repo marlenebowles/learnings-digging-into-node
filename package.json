@@ -1,0 +1,23 @@
+{
+  "name": "learnings-digging-into-node",
+  "version": "1.0.0",
+  "description": "This repo is a scratchpad for the files and lessons learned from [Digging Into Node](https://frontendmasters.com/courses/digging-into-node) by Kyle Simpson on Front End Masters.",
+  "main": "stdout.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marlenebowles/learnings-digging-into-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marlenebowles/learnings-digging-into-node/issues"
+  },
+  "homepage": "https://github.com/marlenebowles/learnings-digging-into-node#readme",
+  "dependencies": {
+    "get-stdin": "^7.0.0",
+    "minimist": "^1.2.5"
+  }
+}
