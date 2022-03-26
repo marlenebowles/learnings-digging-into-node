@@ -18,6 +18,6 @@
   "homepage": "https://github.com/marlenebowles/learnings-digging-into-node#readme",
   "dependencies": {
     "get-stdin": "^7.0.0",
-    "minimist": "^1.2.5"
+    "minimist": "^1.2.6"
   }
 }
